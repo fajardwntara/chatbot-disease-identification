@@ -1,0 +1,1 @@
+Built using Django, with text preprocessing and a Multinomial Naive Bayes machine learning model implemented from scratch based on formulas from research journals. The data was obtained from SehatQ through web scraping.
